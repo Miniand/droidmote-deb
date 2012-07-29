@@ -1,0 +1,10 @@
+Package: droidmote
+Version: 2.1.1-1
+Architecture: all
+Maintainer: Michael Alexander <beefsack@gmail.com>
+Installed-Size: 78
+Section: unknown
+Priority: extra
+Homepage: http://forum.xda-developers.com/showthread.php?t=1292627
+Description: Droidmote server to run in conjunction with the Droidmote client on
+ Android to use an Android device as a remote keyboard and mouse.

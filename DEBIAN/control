@@ -1,6 +1,6 @@
 Package: droidmote
-Version: {{version here}}
-Architecture: {{i386|armel|armhf}}
+Version: 2.1.1-1
+Architecture: i386
 Maintainer: Michael Alexander <beefsack@gmail.com>
 Installed-Size: 78
 Section: unknown
